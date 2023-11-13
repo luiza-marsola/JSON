@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F2CB05;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Bungee Inline', sans-serif;
+  text-align: center;
+  color: #038C33;
+}
+
+.city h2 {
+  color: #038C33; 
+  font-family: 'Bungee Inline', sans-serif; 
+  font-size: 24px; 
+  margin-bottom: 5px; 
+}
+
+.city {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+  text-align: center; 
+}
+
+.city img {
+  width: 700px; 
+  height: auto;
+  object-fit : cover; 
+  display: block; 
+  margin: 0 auto; 
+}
